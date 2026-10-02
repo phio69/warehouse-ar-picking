@@ -1,0 +1,50 @@
+# ===== Unreal Engine =====
+# Генерируемые движком папки
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Запечённое освещение — пересобирается движком
+*_BuiltData.uasset
+
+# Проектные файлы IDE, генерируются из .uproject
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+.vsconfig
+
+# Скомпилированные файлы
+*.o
+*.obj
+*.a
+*.lib
+*.dylib
+*.so
+*.dll
+*.pch
+*.gch
+
+# Готовые сборки
+*.ipa
+*.app
+*.apk
+*.aab
+Packaged/
+
+# ===== IDE =====
+.idea/
+.vs/
+.vscode/
+
+# ===== macOS =====
+.DS_Store
+._*
+
+# ===== Секреты и локальные данные =====
+.env
+*.env
+*.dump
