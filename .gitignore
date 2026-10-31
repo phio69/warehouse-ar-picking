@@ -48,3 +48,9 @@ Packaged/
 .env
 *.env
 *.dump
+
+# Java
+*.class
+out/
+bin/
+target/

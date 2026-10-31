@@ -1,0 +1,6 @@
+id;code;zone;row;level;marker;product_id;quantity
+1;A-01-1;A;1;1;marker_A0101;1;40
+2;A-01-2;A;1;2;marker_A0102;2;15
+3;A-02-1;A;2;1;marker_A0201;3;6
+4;B-01-1;B;1;1;marker_B0101;4;20
+5;B-03-2;B;3;2;marker_B0302;5;2
